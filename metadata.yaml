@@ -1,0 +1,25 @@
+_repo: The-Desultory-Man-Collection-of-Ancient-and-Modern-British-Novels-and-Romances-Vol-CXLVII_49718
+creator:
+  author:
+    agent_name: James, G. P. R. (George Payne Rainsford)
+    alias: James, George Payne Rainsford
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '1301'
+    url: http://www.gutenberg.org/2009/agents/1301
+    wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+description: ''
+gutenberg_issued: '2015-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: "The Desultory Man\r\nCollection of Ancient and Modern British Novels and Romances.\
+  \ Vol. CXLVII."
+url: http://www.gutenberg.org/ebooks/49718
